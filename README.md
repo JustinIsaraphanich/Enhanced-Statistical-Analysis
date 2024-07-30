@@ -1,2 +1,3 @@
-<h1>Tic Tac Toe Game</h1>
-<p>This a simple recreation of a tic tac toe board, with a functional winners screen, with a replay button. </p>
+<h1>Statistical Analysis</h1>
+<p>This program is a numerical program. </p>
+<p>When 3 numbers are given into the program, it returns the mean, median, min, max, and range of the 3 given numbers.</p>
